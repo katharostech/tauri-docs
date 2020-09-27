@@ -29,6 +29,12 @@ const projects = [
     link: 'https://github.com/samirdjelal/bidirectional/',
     screenshots: ['0.png'].map((image) => imgPath + 'bidirectional/' + image),
   },
+  {
+    title: 'Juju Lens',
+    image: imgPath + 'juju-lens/logo.svg',
+    link: 'https://github.com/katharostech/juju-lens/',
+    screenshots: ['0.png'].map((image) => imgPath + 'juju-lens/' + image),
+  },
 ]
 
 const customStyles = {

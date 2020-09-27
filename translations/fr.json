@@ -245,6 +245,9 @@
         },
         {
           "description": "Write Arabic text on apps that don't support bidirectional text."
+        },
+        {
+          "description": "A community developed GUI application for managing Juju controllers"
         }
       ],
       "yourProject": "Your project",
